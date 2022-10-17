@@ -1,16 +1,21 @@
-### Hi there 👋
+Hola 👋, I'm <b>Himanshu.</b>
 
-<!--
-**Himanshu0221/Himanshu0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm <b>Himanshu Tagare</b>, a Constant Learner and a Data Scientist from India, Currently working as a Data Scientist 🙍🏽‍♂️ at Petonic Infotech Pvt. Ltd. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Here's what you need to know about me :</b><br>
+     
+   - 👀 Looking for Data Scientist opportunity .
+   - 💻 I'm good Storyteller.
+   - 👨🏽‍💻 I’m currently working on Machine Learning and NLP, . 
+   - 🐍 I love to code in Python/SQL .
+   - 💬 Ask me about anything, I am happy to help .
+   - 📫 How to reach me: himanshu_tagare@yahoo.in .
+    
+ <b>Languages ,Tools and Skill:</b><br>
+  - 💻 Python, SQL , PyTorch , Tensorflow , Flask , PowerBI , Git , Bitbucket Terminal <br>
+  - 💼 Machine Learning :  Regression & Classification Ensemble Technique , Clustering, Times Series, Feature Engineering, EDA  br>
+  - 💼 Deep Learning/NLP : ANN, CNN, Transfer Learning, Object detection, Text Preprocessing, TFidf, NLTK, Spacy, Genism<br>
+ 
+<b>Connect with me:</b><br>
+https://www.linkedin.com/in/himanshutagare/
