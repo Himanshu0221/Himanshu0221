@@ -6,7 +6,7 @@ Hi, I'm <b>Himanshu Tagare</b>, a Constant Learner and a Data Scientist from Ind
 <b>Here's what you need to know about me :</b><br>
      
    - 👀 Looking for Data Scientist opportunity .
-   - 💻 I'm good Storyteller.
+   - 💻 I'm a good Storyteller.
    - 👨🏽‍💻 I’m currently working on Machine Learning and NLP, . 
    - 🐍 I love to code in Python/SQL .
    - 💬 Ask me about anything, I am happy to help .
