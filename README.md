@@ -1,6 +1,6 @@
 Hola 👋, I'm <b>Himanshu.</b>
 
-Hi, I'm <b>Himanshu Tagare</b>, a Constant Learner and a Data Scientist from India, Currently working as a Data Scientist 🙍🏽‍♂️ at Petonic Infotech Pvt. Ltd. 
+Hi, I'm <b>Himanshu Tagare</b>, a Constant Learner and a Data Scientist from India, Currently working as a Data Scientist 🙍🏽‍♂️ at Spotflock Technologies. 
 
 
 <b>Here's what you need to know about me :</b><br>
