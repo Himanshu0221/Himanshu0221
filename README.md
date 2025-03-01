@@ -1,7 +1,5 @@
-Hola 👋, 
-I'm Himanshu Tagare, a Constant Learner and a Data Scientist from India. Currently, I'm working on cutting-edge AI applications with a strong focus on Generative AI, Large Language Models (LLMs), and Agentic AI
-
-"The best way to predict the future is to create it." – Alan Kay
+Hola 👋, I'm Himanshu
+Hi, I'm Himanshu Tagare, a Constant Learner and a Data Scientist from India. Currently, I'm working on cutting-edge AI applications with a strong focus on Generative AI, Large Language Models (LLMs), and Agentic AI.
 
 🚀 About Me
 🔍 Exploring AI-driven solutions in LLMs, NLP, and Machine Learning.
@@ -25,19 +23,7 @@ I'm Himanshu Tagare, a Constant Learner and a Data Scientist from India. Current
 🛠 Agentic AI & Orchestration: CrewAI | AutoGen | LangChain | LangGraph | OpenDevin | BabyAGI
 📊 AI & Data Analytics: Power BI | Data Visualization | Model Evaluation (BLEU, ROUGE, Perplexity, F1-score)
 
-📊 GitHub Stats
-🔥 My Contributions
-
-📈 My GitHub Stats
-
-🚀 My Top Languages
-
-🏆 GitHub Trophies
-
-📫 Connect with Me
-
-
-🎯 Visitor Counter
-
-🚀 Cool Repo Showcase
+🔗 Connect with Me
+🌐 LinkedIn
+📫 Email
 
