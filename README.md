@@ -1,21 +1,43 @@
-Hola 👋, I'm <b>Himanshu.</b>
+Hola 👋, 
+I'm Himanshu Tagare, a Constant Learner and a Data Scientist from India. Currently, I'm working on cutting-edge AI applications with a strong focus on Generative AI, Large Language Models (LLMs), and Agentic AI
 
-Hi, I'm <b>Himanshu Tagare</b>, a Constant Learner and a Data Scientist from India, Currently working as a Data Scientist 🙍🏽‍♂️ at Spotflock Technologies. 
+"The best way to predict the future is to create it." – Alan Kay
+
+🚀 About Me
+🔍 Exploring AI-driven solutions in LLMs, NLP, and Machine Learning.
+💡 Passionate about solving real-world problems with AI & automation.
+🛠 Building intelligent systems using LLMs, AI orchestration frameworks, and advanced analytics.
+📖 Continuously learning and experimenting with Agentic AI, RAG-based applications, and multimodal AI.
+💬 Ask me about AI, NLP, and data-driven solutions—I'm happy to help!
+📩 How to reach me: himanshu_tagare@yahoo.in
+
+🛠 Languages, Tools & Skills
+⚡ Core Technologies
+🐍 Python | SQL | MySQL | Git | Bitbucket | Docker | FastAPI | Flask
+
+🤖 Machine Learning & Deep Learning
+📊 ML Algorithms: Regression, Classification, Clustering, Time Series Forecasting, Feature Engineering, EDA
+🧠 Deep Learning: ANN, CNN, Transfer Learning, Object Detection
+📜 NLP & LLMs: GPT-4 | Llama | Claude | BERT | NLTK | Spacy | Gensim | TF-IDF | Text Preprocessing
+
+🔥 Generative AI & Agentic AI
+🚀 LLM-based AI Apps: Fine-tuning, Prompt Engineering, RAG
+🛠 Agentic AI & Orchestration: CrewAI | AutoGen | LangChain | LangGraph | OpenDevin | BabyAGI
+📊 AI & Data Analytics: Power BI | Data Visualization | Model Evaluation (BLEU, ROUGE, Perplexity, F1-score)
+
+📊 GitHub Stats
+🔥 My Contributions
+
+📈 My GitHub Stats
+
+🚀 My Top Languages
+
+🏆 GitHub Trophies
+
+📫 Connect with Me
 
 
-<b>Here's what you need to know about me :</b><br>
-     
-   - 👀 Looking for Data Scientist opportunity .
-   - 💻 I'm a good Storyteller.
-   - 👨🏽‍💻 I’m currently working on Machine Learning and NLP, . 
-   - 🐍 I love to code in Python/SQL .
-   - 💬 Ask me about anything, I am happy to help .
-   - 📫 How to reach me: himanshu_tagare@yahoo.in .
-    
- <b>Languages ,Tools and Skill:</b><br>
-  - 💻 Python, SQL , PyTorch , Tensorflow , Flask , PowerBI , Git , Bitbucket Terminal <br>
-  - 💼 Machine Learning :  Regression & Classification Ensemble Technique , Clustering, Times Series, Feature Engineering, EDA  br>
-  - 💼 Deep Learning/NLP : ANN, CNN, Transfer Learning, Object detection, Text Preprocessing, TFidf, NLTK, Spacy, Genism<br>
- 
-<b>Connect with me:</b><br>
-https://www.linkedin.com/in/himanshutagare/
+🎯 Visitor Counter
+
+🚀 Cool Repo Showcase
+
