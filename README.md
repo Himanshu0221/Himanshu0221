@@ -50,7 +50,7 @@
 ---
 
 ## 🚀 **Featured Repositories**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0221&repo=YOUR-REPO&theme=radical)](https://github.com/Himanshu0221/YOUR-REPO)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0221&repo=[YOUR-REPO](https://github.com/Himanshu0221/Minutes_Meeting_Generator)&theme=radical)](https://github.com/Himanshu0221/https://github.com/Himanshu0221/Minutes_Meeting_Generator)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu0221&repo=ANOTHER-REPO&theme=radical)](https://github.com/Himanshu0221/ANOTHER-REPO)  
 
 ---
