@@ -1,5 +1,5 @@
-Hola 👋, I'm Himanshu
-Hi, I'm Himanshu Tagare, a Constant Learner and a Data Scientist from India. Currently, I'm working on cutting-edge AI applications with a strong focus on Generative AI, Large Language Models (LLMs), and Agentic AI.
+Hola 👋,
+I'm Himanshu Tagare, a Constant Learner and a Data Scientist from India. Currently, I'm working on cutting-edge AI applications with a strong focus on Generative AI, Large Language Models (LLMs), and Agentic AI.
 
 🚀 About Me
 🔍 Exploring AI-driven solutions in LLMs, NLP, and Machine Learning.
